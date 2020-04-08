@@ -1,8 +1,12 @@
 ## 关于
 
-[Sarasa Mono SC](https://github.com/be5invis/Sarasa-Gothic)字体打了[Nerd
-fonts](https://github.com/ryanoasis/nerd-fonts)补丁。
+[Sarasa Mono SC]( https://github.com/be5invis/Sarasa-Gothic )字体打了 [Nerd
+fonts]( https://github.com/ryanoasis/nerd-fonts )补丁。
 
+## 使用
+在你的主题配置文件中，使用 `Sarasa Nerd` 或者 `等距更纱黑体 SC` 皆可。
+
+## 说明
 - `等距更纱黑体 SC` 是极少数做到中文和英文2:1严格对齐的字体，适合用来写代码。
 - `Nerd fonts` 提供了很多图标字体，特别适合各种shell/nvim/Emacs主题。
 - 本项目将 `Nerd fonts` 打补丁到 `等距更纱黑体 SC` 中，但并没有选择全部 `Nerd
