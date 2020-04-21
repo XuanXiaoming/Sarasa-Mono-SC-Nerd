@@ -3,6 +3,8 @@
 [Sarasa Mono SC](https://github.com/be5invis/Sarasa-Gothic)字体打了 [Nerd
 fonts](https://github.com/ryanoasis/nerd-fonts)补丁。
 
+![显示效果](screenshots/demo.png)
+
 ## 使用
 在你的主题配置文件中，使用 `Sarasa Nerd` 或者 `等距更纱黑体 SC` 皆可。
 
