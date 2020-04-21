@@ -7,7 +7,8 @@ fonts](https://github.com/ryanoasis/nerd-fonts)补丁。
 在你的主题配置文件中，使用 `Sarasa Nerd` 或者 `等距更纱黑体 SC` 皆可。
 
 ## 说明
-- `等距更纱黑体 SC` 是极少数做到中文和英文2:1严格对齐的字体，适合用来写代码。
+- `等距更纱黑体 SC` 是极少数做到中文和英文2:1严格对齐的字体，适合用来写代码, 以
+  及 org mode 里中英文混合的表格对齐等。
 - `Nerd fonts` 提供了很多图标字体，特别适合各种Shell/NeoVim/Emacs主题，例如 zsh 的
   [`p10k`](https://github.com/romkatv/powerlevel10k), 
   [`Powerline`](https://github.com/powerline/powerline) 等等。
